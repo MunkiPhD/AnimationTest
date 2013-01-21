@@ -1,6 +1,6 @@
 using System;
 
-namespace AnimationTest {
+namespace SpriteAnimation {
 #if WINDOWS || XBOX
     static class Program
     {
